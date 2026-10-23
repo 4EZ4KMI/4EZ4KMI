@@ -1,4 +1,4 @@
-# Hi, I’m 4EZ4KMI! 👋
+# Hi, I’m Æ! 👋
 **Full-Stack Developer | AI & LLM Infrastructure | Telegram Bots | Trading Automation**
 
 <p align="center">
